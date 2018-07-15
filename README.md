@@ -3,8 +3,6 @@ Simple interactive website that allows users to read/write and edit an online bl
 
 ![blog_2](https://user-images.githubusercontent.com/20133885/42730626-fa62149c-87ad-11e8-8e74-4c27c33740c3.png)
 
-Interactive Website that allows users to read/write and edit an online blog. It features a secured login for users. I used Cloud 9 to execute the MySql databases.
-
 ![blog_3](https://user-images.githubusercontent.com/20133885/42730627-fffafc02-87ad-11e8-9dfe-afcdf0b20470.png)
 
 Screenshot of the editing page for users.
